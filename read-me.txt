@@ -1,0 +1,3 @@
+1. setup glut library properly. 
+2. select open existing project then select main.cpp
+3. run and enjoy.
